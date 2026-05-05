@@ -1,0 +1,4 @@
+interface:
+  display_name: "News Video Skills"
+  short_description: "Turn news data into scripted MiniMax videos"
+  default_prompt: "Use $news-video-skills to turn today's AI news JSON into a storyboarded short video."
